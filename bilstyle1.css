@@ -1,0 +1,68 @@
+*
+{
+	margin: 0px;
+        padding: 6px;
+        text-decoration: none;
+	text-transform: capitalize;
+}
+body
+{
+	background-position: center;
+	background-size: cover;
+}
+header
+{
+	display: flex;
+	position: fixed;
+	justify-content: space-between;
+	left : 0;
+	right: 0;
+	top: 0;
+}
+.logo
+{
+	font-size: 22px;
+	color: black;
+	height: 50%;
+	width: 50%;
+}
+header .navbar ul
+{
+	list-style: none;
+
+}
+header .navbar ul li
+{
+	position: relative;
+	float: left;	
+}
+header .navbar ul li a
+{
+	color: yellow;
+	background-color: black;
+}
+header .navbar ul li a: hover
+{
+	
+	background-color: black;
+	color: yellow;
+}
+.map
+{
+	margin-top:50px;
+}
+.html
+{
+	margin-top:50px;
+}
+.css
+{
+	margin-top:50px;
+}
+.container {   
+        padding: 25px;   
+        background-color: lightblue;  
+    }
+.name{
+	text-align:left;
+} 
